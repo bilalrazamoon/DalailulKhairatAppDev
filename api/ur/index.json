@@ -1,0 +1,106 @@
+{
+  "data": {
+    "start": -7,
+    "end": 242,
+    "daily": {
+      "start": 1,
+      "end": 1
+    },
+    "monday": {
+      "start": 2,
+      "end": 75
+    },
+    "tuesday": {
+      "start": 76,
+      "end": 97
+    },
+    "wednesday": {
+      "start": 98,
+      "end": 118
+    },
+    "thursday": {
+      "start": 119,
+      "end": 140
+    },
+    "friday": {
+      "start": 141,
+      "end": 171
+    },
+    "saturday": {
+      "start": 172,
+      "end": 195
+    },
+    "sunday": {
+      "start": 196,
+      "end": 219
+    },
+    "last": {
+      "start": 220,
+      "end": 240
+    },
+    "first": {
+      "start": 57,
+      "end": 75
+    },
+    "second": {
+      "start": 76,
+      "end": 97
+    },
+    "third": {
+      "start": 98,
+      "end": 118
+    },
+    "fourth": {
+      "start": 119,
+      "end": 142
+    },
+    "fifth": {
+      "start": 143,
+      "end": 171
+    },
+    "sixth": {
+      "start": 172,
+      "end": 195
+    },
+    "seventh": {
+      "start": 196,
+      "end": 219
+    },
+    "eight": {
+      "start": 220,
+      "end": 234
+    }
+  },
+  "non_double_pages": [],
+  "blur_text_pages": [
+    {
+      "start": 10,
+      "end": 10
+    },
+    {
+      "start": 13,
+      "end": 26
+    },
+    {
+      "start": 55,
+      "end": 56
+    }
+  ],
+  "list": [
+    { "title": "START", "page": 1 },
+    { "title": "ALLAH_NAMES", "page": 2 },
+    { "title": "DUA_UL_IFTITAH", "page": 8 },
+    { "title": "MUHAMMAD_NAMES", "page": 27 },
+    { "title": "DUA_UN_NIYYAH", "page": 51 },
+    { "title": "FIRST_HISB", "page": 57 },
+    { "title": "SECOND_HISB", "page": 76 },
+    { "title": "THIRD_HISB", "page": 98 },
+    { "title": "FOURTH_HISB", "page": 119 },
+    { "title": "FIFTH_HISB", "page": 143 },
+    { "title": "SIXTH_HISB", "page": 172 },
+    { "title": "SEVENTH_HISB", "page": 196 },
+    { "title": "EIGHT_HISB", "page": 220 },
+    { "title": "DUA_FOR_ENDING_DALAIL_UL_KHAIRAT", "page": 235 },
+    { "title": "HISB_UL_FALAH", "page": 241 }
+  ]
+}
