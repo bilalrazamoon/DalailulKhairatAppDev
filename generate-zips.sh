@@ -37,26 +37,28 @@ toCount=$partial
 while [[ $toCount -ge 0 ]]; do
     fromCount=$toCount
 
-    DIR_NAME=$name$([[ $version = 0 ]] && echo "" || echo $version)$([[ $partial = 0 ]] && echo "" || echo -$partial)
+    DIR_NAME=$name
+    ZIP_NAME=$name$([[ $version = 0 ]] && echo "" || echo $version)$([[ $partial = 0 ]] && echo "" || echo -$partial)
 
     if [[ $toCount != 0 && $toCount != $partial ]]; then
         let fromVersion=fromCount-1
-        DIR_NAME=$DIR_NAME"_"$version"-"$fromVersion
+        ZIP_NAME=$ZIP_NAME"_"$version"-"$fromVersion
     fi
 
     if [[ $toCount != 0 ]]; then
         DIR_NAME=$DIR_NAME"-partial"
+        ZIP_NAME=$ZIP_NAME"-partial"
     fi
 
     mkdir $DIR_NAME
-    echo $DIR_NAME
+    echo "$ZIP_NAME > $DIR_NAME"
 
     while [[ $fromCount -le $partial ]]; do
         cp $SOURCE_DIR/$fromCount/* $DIR_NAME
         ((fromCount++))
     done
 
-    tar -cvf $DIR_NAME.zip $DIR_NAME
+    tar -cvf $ZIP_NAME.zip $DIR_NAME
     rm -fr $DIR_NAME
     # break
     ((toCount--))
