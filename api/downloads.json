@@ -11,16 +11,19 @@
         "url": "https://raw.githubusercontent.com/bilalrazamoon/DalailulKhairatAppDev/gh-pages/downloads/ur2-2_2-0-partial.zip"
       }
     ],
+    "pages": "250 PAGES",
     "size": "22.9 MB",
     "version": "2.2"
   },
   "en": {
     "url": "https://raw.githubusercontent.com/bilalrazamoon/DalailulKhairatAppDev/gh-pages/downloads/en.zip",
+    "pages": "232 PAGES",
     "size": "22.8 MB",
     "version": "1.0"
   },
   "sh": {
     "url": "https://raw.githubusercontent.com/bilalrazamoon/DalailulKhairatAppDev/gh-pages/downloads/sh.zip",
+    "pages": "255 PAGES",
     "size": "34.1 MB",
     "version": "1.0"
   }
