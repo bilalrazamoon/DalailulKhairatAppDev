@@ -1,0 +1,93 @@
+{
+  "data": {
+    "start": -11,
+    "end": 111,
+    "daily": {
+      "start": 1,
+      "end": 1
+    },
+    "monday": {
+      "start": 2,
+      "end": 29
+    },
+    "tuesday": {
+      "start": 30,
+      "end": 40
+    },
+    "wednesday": {
+      "start": 41,
+      "end": 50
+    },
+    "thursday": {
+      "start": 51,
+      "end": 60
+    },
+    "friday": {
+      "start": 61,
+      "end": 76
+    },
+    "saturday": {
+      "start": 77,
+      "end": 82
+    },
+    "sunday": {
+      "start": 88,
+      "end": 89
+    },
+    "last": {
+      "start": 100,
+      "end": 109
+    },
+    "first": {
+      "start": 21,
+      "end": 29
+    },
+    "second": {
+      "start": 30,
+      "end": 40
+    },
+    "third": {
+      "start": 41,
+      "end": 50
+    },
+    "fourth": {
+      "start": 51,
+      "end": 60
+    },
+    "fifth": {
+      "start": 61,
+      "end": 76
+    },
+    "sixth": {
+      "start": 77,
+      "end": 87
+    },
+    "seventh": {
+      "start": 88,
+      "end": 99
+    },
+    "eight": {
+      "start": 100,
+      "end": 106
+    }
+  },
+  "non_double_pages": [],
+  "blur_text_pages": [],
+  "list": [
+    { "title": "START", "page": 1 },
+    { "title": "ALLAH_NAMES", "page": 2 },
+    { "title": "DUA_UL_IFTITAH", "page": 5 },
+    { "title": "MUHAMMAD_NAMES", "page": 7 },
+    { "title": "DUA_UN_NIYYAH", "page": 19 },
+    { "title": "FIRST_HISB", "page": 21 },
+    { "title": "SECOND_HISB", "page": 30 },
+    { "title": "THIRD_HISB", "page": 41 },
+    { "title": "FOURTH_HISB", "page": 51 },
+    { "title": "FIFTH_HISB", "page": 61 },
+    { "title": "SIXTH_HISB", "page": 77 },
+    { "title": "SEVENTH_HISB", "page": 88 },
+    { "title": "EIGHT_HISB", "page": 100 },
+    { "title": "DUA_FOR_ENDING_DALAIL_UL_KHAIRAT", "page": 107 },
+    { "title": "HISB_UL_FALAH", "page": 110 }
+  ]
+}
