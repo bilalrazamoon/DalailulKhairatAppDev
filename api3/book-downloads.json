@@ -1,0 +1,26 @@
+{
+  "ar": {
+    "url": "https://raw.githubusercontent.com/bilalrazamoon/DalailulKhairatAppDev/gh-pages/downloads/ar.zip",
+    "pages": "123 PAGES",
+    "size": "14.6 MB",
+    "version": "1.0"
+  },
+  "ur": {
+    "url": "https://raw.githubusercontent.com/bilalrazamoon/DalailulKhairatAppDev/gh-pages/downloads/ur3.zip",
+    "pages": "252 PAGES",
+    "size": "36.9 MB",
+    "version": "3.0"
+  },
+  "en": {
+    "url": "https://raw.githubusercontent.com/bilalrazamoon/DalailulKhairatAppDev/gh-pages/downloads/en.zip",
+    "pages": "232 PAGES",
+    "size": "22.8 MB",
+    "version": "1.0"
+  },
+  "sh": {
+    "url": "https://raw.githubusercontent.com/bilalrazamoon/DalailulKhairatAppDev/gh-pages/downloads/sh.zip",
+    "pages": "255 PAGES",
+    "size": "34.1 MB",
+    "version": "1.0"
+  }
+}
