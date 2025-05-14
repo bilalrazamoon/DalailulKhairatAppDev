@@ -1,13 +1,13 @@
 {
   "data": {
-    "daily": "2:28",
-    "monday": "39:10",
-    "tuesday": "16:35",
-    "wednesday": "17:14",
-    "thursday": "16:06",
-    "friday": "10:12",
-    "saturday": "15:54",
-    "sunday": "16:37",
-    "last": "16:07"
+    "daily": 148,
+    "monday": 2350,
+    "tuesday": 995,
+    "wednesday": 1034,
+    "thursday": 966,
+    "friday": 612,
+    "saturday": 954,
+    "sunday": 997,
+    "last": 967
   }
 }
